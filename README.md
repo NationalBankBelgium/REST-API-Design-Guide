@@ -6,4 +6,4 @@ This repository hosts the REST API Design Guide of the [National Bank of Belgium
 The guide is located on the wiki of this repository: https://github.com/NationalBankBelgium/REST-API-Design-Guide/wiki/Home
 
 ## License
-This project is distributed under the [EUPL FOSS license](LICENSE.md)
+This project is distributed under the terms of the [EUPL FOSS license](LICENSE.md)
